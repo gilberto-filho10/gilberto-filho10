@@ -1,4 +1,4 @@
-### Oi sou o Gilberto 👋
+### Hello people! Sou o Gilberto 👋
 
 - 🔭 Dev front end
 - 🌱 Expandindo os conhecimentos em React Native
